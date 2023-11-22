@@ -9,7 +9,7 @@ import webbrowser
 
 # Define the paths for the webui and the exe files
 webui_path = 'd:\\New folder\\sd\\stable-diffusion-webui\\webui-user.bat'
-exe_path = 'E:\\DAIN_APP Alpha 1.0\\DAINAPP.exe'
+exe_path = 'D:\\kohya_ss-master\\Flowframes\\Flowframes.exe'
 
 # Define a function to open the exe file at exit
 def open_exe():
